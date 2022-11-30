@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(89, 133, 236);
+    color: bisque;
+    font-size: 30px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(80, 4, 4);
+}
